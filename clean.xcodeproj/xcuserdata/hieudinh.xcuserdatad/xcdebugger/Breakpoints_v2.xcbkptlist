@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AFE46F70-0BBC-4B43-867C-728F915AA5C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31B38F19-11C4-416D-B3A2-762BB30B8EAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "clean/Presentation/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "transform(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ED5CF5E-D3D4-4D7E-8E8E-A964DF7817AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "clean/Presentation/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "transform(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5ED5CF5E-D3D4-4D7E-8E8E-A964DF7817AA - c9e7d70c205c6e66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool in clean.LoginViewModel.transform(clean.LoginViewModel.Input) -&gt; clean.LoginViewModel.Output"
+                  moduleName = "clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hieudinh/Desktop/hieudinh/clean/clean/Presentation/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "5ED5CF5E-D3D4-4D7E-8E8E-A964DF7817AA - c9e7d70c205c6e66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool in clean.LoginViewModel.transform(clean.LoginViewModel.Input) -&gt; clean.LoginViewModel.Output"
+                  moduleName = "clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hieudinh/Desktop/hieudinh/clean/clean/Presentation/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "5ED5CF5E-D3D4-4D7E-8E8E-A964DF7817AA - c9e7d70c205c6e66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool in clean.LoginViewModel.transform(clean.LoginViewModel.Input) -&gt; clean.LoginViewModel.Output"
+                  moduleName = "clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hieudinh/Desktop/hieudinh/clean/clean/Presentation/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
